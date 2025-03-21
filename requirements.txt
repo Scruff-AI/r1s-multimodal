@@ -1,0 +1,25 @@
+# Core dependencies
+chainlit==0.7.700
+pydantic==1.10.13
+langchain==0.3.2
+langchain-community==0.3.1
+langchain-core==0.3.9
+chromadb==0.5.11
+
+# Audio processing
+SpeechRecognition
+pydub
+gTTS
+
+# Image processing
+Pillow
+
+# Web scraping
+requests
+beautifulsoup4
+html2text
+duckduckgo-search
+
+# Utilities
+python-dotenv
+tqdm
